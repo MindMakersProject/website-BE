@@ -2,8 +2,7 @@
 
 Create a directory for every kind of file as:  
 
-`documents/project-name/[documentfile].txt`  
-`videos/project-name/[videofile].txt`  
+`documents/project-name/[documentfile].txt`    
 `photos/project-name/[photo].jpg`
 
 
