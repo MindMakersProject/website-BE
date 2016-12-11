@@ -1,0 +1,42 @@
+
+<svg width="468px" height="222px" viewBox="982 224 468 222" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="software" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(982.673593, 224.689553)">
+        <text id="Neque-porro-quisquam" font-family=".AppleSystemUIFont" font-size="16" font-weight="normal" fill="#9B9B9B">
+            <tspan x="58.0812124" y="191.400354">Neque porro quisquam est, qui </tspan>
+            <tspan x="64.9249624" y="209.400354">dolorem ipsum quia dolor sit.</tspan>
+        </text>
+        <text id="SOFTWARE" font-family=".SFNSDisplay, .SF NS Display" font-size="22" font-weight="normal" fill="#323638">
+            <tspan x="106.13368" y="158.354908">SOFTWARE</tspan>
+        </text>
+        <g id="icon" opacity="0.8" transform="translate(99.326407, 0.310447)" fill="#202020">
+            <polygon id="Fill-1" points="49.75 31.832 62.869 31.832 62.869 27.332 49.75 27.332"></polygon>
+            <polygon id="Fill-2" points="62.869 48.977 76.989 48.977 76.989 44.477 62.869 44.477"></polygon>
+            <polygon id="Fill-3" points="62.869 57.545 76.989 57.545 76.989 53.045 62.869 53.045"></polygon>
+            <polygon id="Fill-4" points="62.869 83.262 76.989 83.262 76.989 78.762 62.869 78.762"></polygon>
+            <polygon id="Fill-5" points="62.869 91.832 76.989 91.832 76.989 87.332 62.869 87.332"></polygon>
+            <polygon id="Fill-6" points="49.75 40.402 76.989 40.402 76.989 35.902 49.75 35.902"></polygon>
+            <polygon id="Fill-7" points="49.75 66.119 62.869 66.119 62.869 61.619 49.75 61.619"></polygon>
+            <polygon id="Fill-8" points="49.75 74.689 76.989 74.689 76.989 70.189 49.75 70.189"></polygon>
+            <polygon id="Fill-9" points="82.511 48.977 96.631 48.977 96.631 44.477 82.511 44.477"></polygon>
+            <polygon id="Fill-10" points="82.511 57.545 109.75 57.545 109.75 53.045 82.511 53.045"></polygon>
+            <polygon id="Fill-11" points="82.511 83.262 96.631 83.262 96.631 78.762 82.511 78.762"></polygon>
+            <polygon id="Fill-12" points="82.511 91.832 109.75 91.832 109.75 87.332 82.511 87.332"></polygon>
+            <polygon id="Fill-13" points="82.511 40.402 96.631 40.402 96.631 35.902 82.511 35.902"></polygon>
+            <polygon id="Fill-14" points="82.511 74.689 96.631 74.689 96.631 70.189 82.511 70.189"></polygon>
+            <path d="M0,104.166 L124.5,104.166 L124.5,15 L0,15 L0,104.166 Z M4.5,99.666 L120,99.666 L120,19.5 L4.5,19.5 L4.5,99.666 Z" id="Fill-15"></path>
+            <path d="M0,19.5 L124.5,19.5 L124.5,0 L0,0 L0,19.5 Z M4.5,15 L120,15 L120,4.5 L4.5,4.5 L4.5,15 Z" id="Fill-16"></path>
+            <polygon id="Fill-17" points="9.75 12 14.25 12 14.25 7.5 9.75 7.5"></polygon>
+            <polygon id="Fill-18" points="18.75 12 23.25 12 23.25 7.5 18.75 7.5"></polygon>
+            <polygon id="Fill-19" points="27.75 12 32.25 12 32.25 7.5 27.75 7.5"></polygon>
+            <polygon id="Fill-20" points="35 101.916 39.5 101.916 39.5 17.25 35 17.25"></polygon>
+            <path d="M14.25,44.477 L25.25,44.477 L25.25,31.832 L14.25,31.832 L14.25,44.477 Z M9.75,48.977 L29.75,48.977 L29.75,27.332 L9.75,27.332 L9.75,48.977 Z" id="Fill-21"></path>
+            <polygon id="Fill-22" points="9.75 57.545 29.75 57.545 29.75 53.045 9.75 53.045"></polygon>
+            <polygon id="Fill-23" points="9.75 66.115 29.75 66.115 29.75 61.615 9.75 61.615"></polygon>
+            <polygon id="Fill-24" points="9.75 74.684 29.75 74.684 29.75 70.184 9.75 70.184"></polygon>
+            <polygon id="Fill-25" points="9.75 83.254 29.75 83.254 29.75 78.754 9.75 78.754"></polygon>
+        </g>
+    </g>
+</svg>
